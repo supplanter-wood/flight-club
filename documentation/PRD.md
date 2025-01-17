@@ -21,7 +21,7 @@ To create a subscription-based service that helps users discover highly discount
 - **Demographics**:\
   - Age: 18-45\
   - Tech-savvy users with access to smartphones and/or computers.\
-  - Geographic focus: Initially target users in the US and Europe.\
+  - Geographic focus: Initially target users in the UK and Europe.\
 \
 ---\
 \
